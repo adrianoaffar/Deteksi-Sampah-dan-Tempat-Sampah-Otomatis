@@ -1,2 +1,2 @@
-# Deteksi-Sampah-dan-Tempat-Sampah-Otomatis
+# Deteksi Jenis Sampah dan Tempat Sampah Otomatis
 Project Pengolahan Citra Digital
